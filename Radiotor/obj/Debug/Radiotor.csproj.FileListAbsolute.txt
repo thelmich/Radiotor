@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\Radiotor.exe.config
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\Radiotor.exe
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\Radiotor.pdb
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\NAudio.dll
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\NAudio.xml
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.Properties.Resources.resources
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.csproj.CopyComplete
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.exe
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.pdb
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Radiotor\Radiotor\bin\Debug\stations.xml
+C:\Users\Test\source\repos\Radiotor\Radiotor\obj\Debug\Radiotor.Form1.resources

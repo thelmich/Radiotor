@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UrlItems>
+	<UrlItem>
+		<Name>Amazing Blues</Name>
+		<Url>https://stream.amazingradios.com/blues</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Amazing Jazz</Name>
+		<Url>https://stream.amazingradios.com/jazz</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Amazing 80s</Name>
+		<Url>https://stream.amazingradios.com/80s</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Amazing Classic Hits</Name>
+		<Url>https://stream.amazingradios.com/classic-hits</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Amazing Vocals</Name>
+		<Url>https://stream.amazingradios.com/vocals</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Blues Rock</Name>
+		<Url>http://sc-blues.1.fm:8030</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Munichs Hardest Hits</Name>
+		<Url>http://munichhh.streamabc.net/munichhh-mhhlive-mp3-128-9996709</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Radio Bob</Name>
+		<Url>http://streams.radiobob.de/bob-live/mp3-128/streams.radiobob.de/</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Rockantenne</Name>
+		<Url>https://stream.rockantenne.de/rockantenne/stream/mp3</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Rockantenne Classic Perlen</Name>
+		<Url>https://stream.rockantenne.de/classic-perlen/stream/mp3</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Rockantenne Melodic Rock</Name>
+		<Url>https://stream.rockantenne.de/melodic-rock/stream/mp3</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>Rockantenne RocknRoll</Name>
+		<Url>https://stream.rockantenne.de/rockandroll/stream/mp3</Url>
+	</UrlItem>
+	<UrlItem>
+		<Name>1FM Country</Name>
+		<Url>http://sc-countryone.1.fm:8020/</Url>
+	</UrlItem>
+</UrlItems>
+
